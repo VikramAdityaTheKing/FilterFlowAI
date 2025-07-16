@@ -1,4 +1,4 @@
-# **FilterFlow AI: Intelligent Customer Service & Security**
+# **FilterFlow AI: Intelligent Customer Service AI System**
 
 **FilterFlow AI** is a cutting-edge, multi-agent AI system designed to revolutionize customer service interactions by intelligently handling abusive, prank, and potentially malicious interactions. It acts as a smart digital guardian, ensuring human agents focus their valuable time on legitimate, high-priority customer needs.
 
@@ -12,7 +12,7 @@ Tired of draining valuable human potential on frustrating, off-topic, or even ou
 
 ### **What Inspired Us: The Fight for Efficiency and Sanity**
 
-The inspiration for FilterFlow AI sparked from the raw frustration of seeing valuable human time and energy drained by interactions that go nowhere, or worse – by malicious actors probing for vulnerabilities. We wanted to build an AI that doesn't just answer questions, but **actively protects, filters, and optimizes** the entire customer service ecosystem, empowering humans by handling the "noise" so they can focus on the "signal."
+The inspiration for FilterFlow AI sparked from the raw frustration of seeing valuable human time and energy drained by interactions that go nowhere, or worse – by malicious actors probing for vulnerabilities. We wanted to build an AI that doesn't just answer questions, but **actively protects, filters, and optimizes** the entire customer service ecosystem, empowering humans by letting AI handling the "noise" so they can focus on the main "signal."
 
 ### **How We Built It: A Multi-Agent Masterpiece**
 

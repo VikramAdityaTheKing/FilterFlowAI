@@ -135,9 +135,7 @@ For full command options and usage, refer to the [Makefile](Makefile).
 
 ---
 
-## **FilterFlow AI's Conceptual Architecture (Flowchart Blueprint)**
-
-**(You will create a visual flowchart/diagram based on this description for your presentation/video. It should be a separate image in your submission.)**
+## **FilterFlow AI's Conceptual Architecture: 
 
 Imagine FilterFlow AI as a highly specialized, adaptive assembly line for customer interactions:
 
